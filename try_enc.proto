@@ -1,0 +1,6 @@
+syntax="proto2";
+
+message Peri {
+required string dev_name=1;
+required float value=2;
+}
